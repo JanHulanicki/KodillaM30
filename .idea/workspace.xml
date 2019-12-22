@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="355773cc-b365-4377-a373-b728d6f71275" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VLIhYp3cYLCgvUHTDTsSGZtqJ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/mysql/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle.DbManagerTestSuite.testSelectUsersAndPosts">
+    <configuration name="DbManagerTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.jdbc.DbManagerTestSuite&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DbManagerTestSuite.testConnect" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.jdbc.DbManagerTestSuite.testConnect&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DbManagerTestSuite.testSelectUsers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.jdbc.DbManagerTestSuite.testSelectUsers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DbManagerTestSuite.testSelectUsersAndPosts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.jdbc.DbManagerTestSuite.testSelectUsersAndPosts&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.kodilla.jdbc'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.jdbc.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DbManagerTestSuite.testSelectUsersAndPosts" />
+        <item itemvalue="Gradle.DbManagerTestSuite.testSelectUsers" />
+        <item itemvalue="Gradle.DbManagerTestSuite" />
+        <item itemvalue="Gradle.Tests in 'com.kodilla.jdbc'" />
+        <item itemvalue="Gradle.DbManagerTestSuite.testConnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355773cc-b365-4377-a373-b728d6f71275" name="Default Changelist" comment="" />
+      <created>1577026067583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577026067583</updated>
+      <workItem from="1577026074451" duration="1601000" />
+      <workItem from="1577027701582" duration="4415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="215" key="#Project_Structure" timestamp="1577027207949">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="215" key="#Project_Structure/0.0.1600.900@0.0.1600.900" timestamp="1577027207949" />
+    <state x="202" y="275" key="FileChooserDialogImpl" timestamp="1577028720140">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="202" y="275" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1577028720140" />
+    <state width="1540" height="288" key="GridCell.Tab.0.bottom" timestamp="1577032918724">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1540" height="288" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1577032918724" />
+    <state width="1540" height="288" key="GridCell.Tab.0.center" timestamp="1577032918723">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1540" height="288" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1577032918723" />
+    <state width="1540" height="288" key="GridCell.Tab.0.left" timestamp="1577032918723">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1540" height="288" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1577032918723" />
+    <state width="1540" height="288" key="GridCell.Tab.0.right" timestamp="1577032918724">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1540" height="288" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1577032918724" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1577028802416">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1577028802416" />
+    <state x="511" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1577027701933">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="511" y="383" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1577027701933" />
+  </component>
+</project>
