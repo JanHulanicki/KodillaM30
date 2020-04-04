@@ -16,7 +16,6 @@ public class StoredProcTestSuite {
         String sqlUpdate = "UPDATE READERS SET VIP_LEVEL=\"Not set\"";
         Statement statement = dbManager.getConnection().createStatement();
         statement.execute(sqlUpdate);
-
         //When
         String sqlProcedureCall = "CALL UpdateVipLevels1()";
         statement.execute(sqlProcedureCall);
@@ -37,7 +36,6 @@ public class StoredProcTestSuite {
         String sqlUpdate = "UPDATE BOOKS SET BESTSELLER=\"0\"";
         Statement statement = dbManager.getConnection().createStatement();
         statement.execute(sqlUpdate);
-
         //When
         String sqlProcedureCall = "CALL UpdateBestsellers()";
         statement.execute(sqlProcedureCall);
@@ -50,5 +48,4 @@ public class StoredProcTestSuite {
         }
         assertEquals(2, howMany);
     }
-
 }
